@@ -1,10 +1,10 @@
-# 🛒 SCT_SD_Task4 – E-commerce Scraper (SkillCraft Software Development Internship)
+#  SCT_SD_Task4 – E-commerce Scraper 
 
 This repository contains **Task 4** for my **Software Development Internship** at **SkillCraft Technology**.
 
 ---
 
-## 📝 Task Objective
+##  Task Objective
 
 Create a program that extracts **product information** such as **names, prices, and ratings** from an online e-commerce website  
 and stores the data in a structured format (**CSV file**).  
@@ -12,7 +12,7 @@ The goal is to demonstrate web scraping, data parsing, and file export using Pyt
 
 ---
 
-## ✅ Key Features
+##  Key Features
 
 - User-friendly **Tkinter GUI** to enter the URL of the e-commerce page.
 - Uses **`requests`** to fetch the page content.
@@ -26,7 +26,7 @@ The goal is to demonstrate web scraping, data parsing, and file export using Pyt
 
 ---
 
-## 🔧 Tools & Libraries Used
+##  Tools & Libraries Used
 
 - **Python 3**
 - **Tkinter** (GUI library)
@@ -36,7 +36,7 @@ The goal is to demonstrate web scraping, data parsing, and file export using Pyt
 
 ---
 
-## 📦 Requirements
+##  Requirements
 
 Install the required libraries before running:
 How to run
