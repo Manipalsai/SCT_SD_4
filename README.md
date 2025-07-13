@@ -38,7 +38,7 @@ The goal is to demonstrate web scraping, data parsing, and file export using Pyt
 
 ##  Requirements
 
-Install the required libraries before running:
+Install the required libraries before running and
 How to run
 ```bash
 pip install requests beautifulsoup4 pandas
